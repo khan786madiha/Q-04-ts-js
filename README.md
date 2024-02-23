@@ -1,2 +1,2 @@
-# Q-04-ts-js
+# Q-04-Ts-Js
 Madiha Khan's NODEJS 45 Assignment Q-04
